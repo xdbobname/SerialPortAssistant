@@ -369,6 +369,7 @@ namespace SerialPortAssistant
         {
             MessageBox.Show("中止文件接收");
             fsRec.Dispose();
+            filePosition = 0;
             previousTag = (int)ComTag.NormalTag;
             Invoke((EventHandler)(delegate
             {
