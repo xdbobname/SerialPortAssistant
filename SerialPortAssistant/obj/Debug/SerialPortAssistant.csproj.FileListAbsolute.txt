@@ -1,0 +1,9 @@
+d:\sinbob\documents\visual studio 2015\Projects\SerialPortAssistant\SerialPortAssistant\bin\Debug\SerialPortAssistant.exe.config
+d:\sinbob\documents\visual studio 2015\Projects\SerialPortAssistant\SerialPortAssistant\bin\Debug\SerialPortAssistant.exe
+d:\sinbob\documents\visual studio 2015\Projects\SerialPortAssistant\SerialPortAssistant\bin\Debug\SerialPortAssistant.pdb
+d:\sinbob\documents\visual studio 2015\Projects\SerialPortAssistant\SerialPortAssistant\obj\Debug\SerialPortAssistant.csprojResolveAssemblyReference.cache
+d:\sinbob\documents\visual studio 2015\Projects\SerialPortAssistant\SerialPortAssistant\obj\Debug\SerialPortAssistant.Form1.resources
+d:\sinbob\documents\visual studio 2015\Projects\SerialPortAssistant\SerialPortAssistant\obj\Debug\SerialPortAssistant.Properties.Resources.resources
+d:\sinbob\documents\visual studio 2015\Projects\SerialPortAssistant\SerialPortAssistant\obj\Debug\SerialPortAssistant.csproj.GenerateResource.Cache
+d:\sinbob\documents\visual studio 2015\Projects\SerialPortAssistant\SerialPortAssistant\obj\Debug\SerialPortAssistant.exe
+d:\sinbob\documents\visual studio 2015\Projects\SerialPortAssistant\SerialPortAssistant\obj\Debug\SerialPortAssistant.pdb
